@@ -1,0 +1,11 @@
+/associations/
+/attributeSelection/
+/classifiers/
+/clusterers/
+/core/
+/datagenerators/
+/estimators/
+/experiment/
+/filters/
+/gui/
+/test/

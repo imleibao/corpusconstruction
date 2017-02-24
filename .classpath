@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8"/>
+	<classpathentry kind="lib" path="lib/jna-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jchardet-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/JFlex.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/antlr.jar"/>
+	<classpathentry kind="lib" path="lib/cpdetector_1.0.10.jar"/>
+	<classpathentry kind="lib" path="lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="lib/weka-src.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.3-bin.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
